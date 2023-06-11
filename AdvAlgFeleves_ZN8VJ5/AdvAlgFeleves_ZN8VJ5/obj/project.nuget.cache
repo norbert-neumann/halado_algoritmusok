@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLEeW33D/u8qOLh/0ipDP+Uu1SfNdUPGgactsvsZTx6QXhKy+7W6lv/0nK/s4yJQBcQdsP+JG/lxAgwhkaDGBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Norbert\\source\\repos\\AdvAlgFeleves_ZN8VJ5\\AdvAlgFeleves_ZN8VJ5\\AdvAlgFeleves_ZN8VJ5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Norbert\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Norbert\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
